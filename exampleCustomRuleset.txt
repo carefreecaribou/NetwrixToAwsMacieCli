@@ -1,0 +1,1 @@
+ExampleName~\b(?:Word1|Word2)\b~associatedKeyword~associatedkeyword
